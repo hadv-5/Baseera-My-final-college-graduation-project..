@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "full_name": "أحمد محمد",
+        "student_id": "2021001",
+        "email": "ahmed@college.edu",
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "avatar_color": "#FF6B2B",
+        "avatar_image": "data\/uploads\/avatar_1_1776091000.png"
+    }
+]

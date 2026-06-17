@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "full_name": "أحمد محمد",
+        "avatar_color": "#FF6B2B",
+        "message": "hello",
+        "time": "15:28",
+        "date": "2026-04-13"
+    }
+]
